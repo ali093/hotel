@@ -1,0 +1,63 @@
+html,
+body {
+    box-sizing: border-box;
+}
+
+div {
+    width: 100%;
+    height: 1000px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.header {
+    background: url("../img/rustavi3.jpg") no-repeat center center fixed;
+    background-size: cover;
+
+
+    /*qaqa be neye gore bu shekilde alindi obiri shekilde  alinmadi , hemdeki coverde vid iter
+ *qaqa demek ki boyukde alinmirmis elede yaxshi
+ *desen yani olcuye gore?
+ * ola biler ki boyuk shekli sixa bilmir 
+ * tamamda bu probleme cozum varmi ?
+ * var qaqa 
+ * ozun pxeller vere vere?
+ * yoxs
+ * bu beledi qaqa
+ * he qaqa burda  her yazanda control +s ele ifso
+ * gulp js yazilibmi uje bunda he yazmisham 
+ *altdaki scroll shekiller yekedi diye cixdi ele 
+ * olculer qoyulmayib deye 
+ * qaqa senin komeyin lazim olacam mene 
+ * Biz nigar ile bashlayiriq sayti yigmaga
+ *ona ureyim qurvan :D
+ * kime nigara:D
+ * be maa
+ * qara tiken kimi ortadan sirazi neye cixeesan ;D
+ * havax baslayirsan qaqa
+ * ele bu deq
+ qaqa menm potoshop zd ishlemir
+ * lazim deyil photoshop
+  * figma bilirsenmi
+  * yada ki elece sayt verecem baxib yigassan rengleride verecem
+  * siterem qaqa ishimizin fundamentinde ishtirak edesen
+  mene pikseller font famililer olculer lazimdi 
+  gel qaqa 10 gun sora bshdiyax
+  yada sen bashda mende ozum ucun burda yigim maketi 
+  * github yarat
+  mende bu deq Vs Code ustanovka edeirem 
+  
+
+
+*/
+
+
+}
+
+.menu {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 25px;
+    background: #414141;
+}
