@@ -8,6 +8,8 @@ bu ikiye blunen yer nedi
   q
   yox qaqa gosterir ki ne deyishibsen evvel nece idi indi necedi
   burdami indi 
+  aha qaqa rahatliqla qoshulub ozune ceke bilersen proyekkti
+  yada bir basha elece winrarda yukleye bilrsen githubda
   
 */ 
 
